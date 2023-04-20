@@ -5,7 +5,7 @@ This is the repository for the GECCO 2023 paper "Evolutionary Algorithm for Dire
 
 In the folder `datasets`, there are the benchmark datasets, based on the MovieLens25M dataset, used in the paper.
 
-For each benchmark, the corresponding file contains the list of user IDs from the original MovieLens25M dataset used in the benchmark. Benchmark data consist of the first 5 items rated by users included in the benchmark.
+For each benchmark, the corresponding file contains the list of user IDs from the original MovieLens25M dataset used in the benchmark. Benchmark data consist of the first 5 items rated by users used in the benchmark.
 
 ## References
 
